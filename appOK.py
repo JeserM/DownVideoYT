@@ -9,9 +9,7 @@ Info:
 
 Para ejecutar este script se debe hacer lo siguiente:
     - streamlit run appOK.py
-    """
-import tkinter as tk
-from tkinter import filedialog
+"""
 from pytubefix import YouTube
 # from pytubefix.cli import on_progress
 import streamlit as st

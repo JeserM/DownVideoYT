@@ -1,7 +1,8 @@
 # DownVideoYT
 
 
-Descargar videos de Youtube
+Aplicación para hacer pruebas y obtener info de los videos de Youtube. Basado en las guias de [@codigoespinoza](https://www.youtube.com/@CodigoEspinoza), y su canal.
+Le he añadido un par de cosas como poder seleccionar la ruta de descarga y cambiado la libreria de pytube que ya no funciona.
 
 ### Librerias
 ---
@@ -16,8 +17,10 @@ Descargar videos de Youtube
 
 Pytube no esta funcionando, de ahi el usar pytubefix. Se debe instalar pytubefix con:
 - pip install pytubefix
-- 
-Mas Info: 
+- Igual para el resto de librerias
+- pip install streamlit
+  
+Mas Info sobre pytube
 - https://pytubefix.readthedocs.io/en/latest/api.html
 - https://pypi.org/project/pytubefix/
 - https://www.youtube.com/watch?v=51pjGysr7ws&t=116s

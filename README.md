@@ -60,8 +60,7 @@ En la misma carpeta estará el exe junto con el archivo de código de python. El
 ## DownLoad
 Hacecen falta en la misma carpeta el archivo "run.exe" y el app**.py:
 
-- [Run.exe](https://github.com/JeserM/DownVideoYT/blob/main/pro/exe/v%203.0/run.exe)
-- [App**.py](https://github.com/JeserM/DownVideoYT/blob/main/pro/exe/v%203.0/app3.0.py)
+- [V.3.0](https://github.com/JeserM/DownVideoYT/releases/tag/V.3.0)
 
 
 ___ FIN ___

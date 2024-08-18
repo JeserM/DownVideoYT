@@ -91,7 +91,7 @@ Para usar solo el py, hay que ejecutarlo con "streamlit run app**.py"
 
 ## DownLoad
 
-- [V.3.0](https://github.com/JeserM/DownVideoYT/releases/tag/V.3.0](https://github.com/JeserM/DownVideoYT/releases)
+- [V.3.0](https://github.com/JeserM/DownVideoYT/releases/tag/V.3.0)
 
 
 ___ FIN ___

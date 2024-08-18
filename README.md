@@ -1,7 +1,7 @@
 # DownVideoYT
 
 
-Aplicación para hacer pruebas pruebas y obtener info de los videos de Youtube. Basado en las guias de @codigoespinoza y gracias a su canal [https://www.youtube.com/@CodigoEspinoza].
+Aplicación para hacer pruebas y obtener info de los videos de Youtube. Basado en las guias de [@codigoespinoza](https://www.youtube.com/@CodigoEspinoza), y su canal.
 Le he añadido un par de cosas como poder seleccionar la ruta de descarga y cambiado la libreria de pytube que ya no funciona.
 
 ### Librerias

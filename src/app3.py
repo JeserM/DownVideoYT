@@ -1,4 +1,7 @@
-
+"""
+Para poner en focus o top la ventana de descarga:
+    -https://github.com/python-eel/Eel/issues/395
+"""
 import tkinter as tk
 from tkinter import filedialog
 from pytubefix import YouTube

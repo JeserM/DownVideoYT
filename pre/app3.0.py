@@ -27,8 +27,8 @@ class YoutubeDownloader:
     def showStreams(self):
         streams = self.youtube.streams
         stream_options = [
-            f"Resolution: {stream.resolution or 'N/A'} / FPS: {
-                getattr(stream, 'fps', 'N/A')}/Tipo: {stream.mime_type})"
+            f"Resolution: {stream.resolution or 'N/A'}  -  FPS: {
+                getattr(stream, 'fps', 'N/A')}  -  Tipo: {stream.mime_type}"
             for stream in streams
         ]
         choice = st.selectbox("Elija una opción de stream", stream_options)
